@@ -4,5 +4,8 @@ game_xml/*.xml
 .vs
 .vscode
 images/*.*
+Images/*.*
 !images/icon_duration.png
 !images/icon_players.png
+!Images/icon_duration.png
+!Images/icon_players.png
